@@ -1,12 +1,10 @@
 # Hi, I'm Manju Suthar 👋
 
-Entry-level Business Analyst with a B.Com, a PGCM in Business Analytics & BI (MIT SDE), and a CA articleship background. I understand both finance and data.
+**Business Analyst (Fresher) | Requirements · SQL · Power BI · Excel · Jira · Tableau · Dashboards · BRD, FRD & UAT**
 
-## What I work with
-SQL · Power BI · Tableau · Excel · Python
+I turn messy business processes and raw data into clear requirements, dashboards, and decisions. Background in finance and accounting (CA articleship), formal training in Business Analytics, and hands-on project work across the full BA cycle: elicitation → documentation → analysis → reporting.
 
-## Projects
-- **Cricbuzz LiveStats**: cricket analytics app built with Python, SQLite and Streamlit
+📍 Nashik, Maharashtra, India
+🎓 PGCM (Business Analytics), MIT School of Distance Education: CGPA 9.86 | B.Com, BYK College of Commerce: CGPA 8.56
+📫 manjusuthar8767@gmail.com | [LinkedIn](https://linkedin.com/in/manju-suthar06)
 
-## Connect
-[LinkedIn](https://linkedin.com/in/manju-suthar) · manjusuthar8767@gmail.com
