@@ -8,8 +8,5 @@ Business Analyst fresher with a PGCM in Business Analytics. I translate business
 **Process & Analysis:** As-Is / To-Be Mapping (BPMN) · Gap Analysis · Root Cause Analysis
 **Tools:** JIRA · Confluence · SQL · Excel · Power BI · Tableau · Python (basic) · Postman / OpenAPI
 
-My repositories include requirements packages, data analysis, and BI dashboards built around IT and software scenarios.
-
-📫 manjusuthar8767@gmail.com | [LinkedIn](https://linkedin.com/in/manju-suthar06)
-📫 manjusuthar8767@gmail.com | [LinkedIn](https://linkedin.com/in/manju-suthar06)
+📫 manjusuthar8767@gmail.com | [LinkedIn](https://linkedin.com/in/manju-suthar)
 
