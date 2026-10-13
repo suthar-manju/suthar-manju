@@ -1,10 +1,15 @@
 # Hi, I'm Manju Suthar 👋
 
-**Business Analyst (Fresher) | Requirements · SQL · Power BI · Excel · Jira · Tableau · Dashboards · BRD, FRD & UAT**
+**Business Analyst (Fresher) | Business Intelligence & Analysis**
 
-I turn messy business processes and raw data into clear requirements, dashboards, and decisions. Background in finance and accounting (CA articleship), formal training in Business Analytics, and hands-on project work across the full BA cycle: elicitation → documentation → analysis → reporting.
+Business Analyst fresher with a PGCM in Business Analytics. I translate business needs into clear technical requirements: BRDs, FRDs, user stories, acceptance criteria, UAT plans, and process flows. I back them with SQL-based analysis and dashboards. My earlier finance background (CA articleship) gives me an eye for data accuracy and process control.
 
-📍 Nashik, Maharashtra, India
-🎓 PGCM (Business Analytics), MIT School of Distance Education: CGPA 9.86 | B.Com, BYK College of Commerce: CGPA 8.56
+**Requirements & Documentation:** BRD · FRD · User Stories · Acceptance Criteria · MoSCoW Prioritization · Traceability Matrix · UAT
+**Process & Analysis:** As-Is / To-Be Mapping (BPMN) · Gap Analysis · Root Cause Analysis
+**Tools:** JIRA · Confluence · SQL · Excel · Power BI · Tableau · Python (basic) · Postman / OpenAPI
+
+My repositories include requirements packages, data analysis, and BI dashboards built around IT and software scenarios.
+
+📫 manjusuthar8767@gmail.com | [LinkedIn](https://linkedin.com/in/manju-suthar06)
 📫 manjusuthar8767@gmail.com | [LinkedIn](https://linkedin.com/in/manju-suthar06)
 
